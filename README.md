@@ -5,3 +5,5 @@ picture of my password generator
 
 Link:
  https://sbarry0108.github.io/password-generator/
+ 
+https://github.com/Sbarry0108/password-generator
